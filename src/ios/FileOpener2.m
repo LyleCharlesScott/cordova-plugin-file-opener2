@@ -68,7 +68,9 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 		if (showPreview) {
 			wasOpened = [docController presentPreviewAnimated: NO];
-		} else {
+		}
+
+		if (!wasOpened) {
 			//@NOTE: this will not work on iPad, rendering at or beyond full height (768px) will violate a view constraint
 			//Use the options.rect parameter to FileOpener2.open() in JavaScript to position the element which starts at x+w,y+h (the bottom right corner of CGRect)
 			CGRect rect = CGRectMake(0, 0, cont.view.bounds.size.width, cont.view.bounds.size.height);

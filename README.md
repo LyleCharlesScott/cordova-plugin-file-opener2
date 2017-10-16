@@ -1,3 +1,6 @@
+		// this is a fork of agilethomas' fork on pwlin's cordova-plugin-file-opener2. The change we put in opens a native
+		// file handling menu when the user attempts to download a file type for which their is no preview available.
+
 Contributors
 ------------
 [@Gillardo](https://github.com/Gillardo/), [@TankOs](https://github.com/TankOs), [@Rovi23](https://github.com/Rovi23), [@josemanuelbd](https://github.com/josemanuelbd), [@ielcoro](https://github.com/ielcoro), [@keturn](https://github.com/keturn), [@conform](https://github.com/conform), [@guyc](https://github.com/guyc), [@J3r0M3D3V](https://github.com/J3r0M3D3V), [@WuglyakBolgoink](https://github.com/WuglyakBolgoink), [@lincolnthree](https://github.com/lincolnthree), [@rocco](https://github.com/rocco/), [@FrankFenton](https://github.com/FrankFenton), [@MHolmes91](https://github.com/MHolmes91), [@souly1](https://github.com/souly1), [@diogodias86](https://github.com/diogodias86), [@Arxi](https://github.com/Arxi), [@vzharkov](https://github.com/vzharkov), [@lp1bp](https://github.com/lp1bp), [@stalniy](https://github.com/stalniy), [@liugogal](https://github.com/liugogal), [@lcaprini](https://github.com/lcaprini), [@jcdickman](https://github.com/jcdickman)
